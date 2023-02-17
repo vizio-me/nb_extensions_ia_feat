@@ -1,0 +1,12 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x
+Name: IA Feature
+Main: main.js
+Link: README.md
+Description: |
+  Add three cell features:
+  1. Improve the code
+  2. Fix the code
+  3. Comment to code
+Parameters:
+  - none
